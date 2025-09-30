@@ -19,7 +19,7 @@
 
 ## Build
 1. Mở project bằng Xcode (iOS 15 trở lên).  
-2. Thêm file `yolov8m.mlpackage` vào project (nếu chưa có, có thể export từ YOLOv8 theo hướng dẫn trong thư mục `Scripts`).  
+2. Thêm file `yolov8m.mlpackage` vào project (nếu chưa có, có thể export từ YOLOv8 theo code trong thư mục `Scripts`).  
 3. Cấu hình API key OpenAI của riêng bạn trong code (không có sẵn trong repo này).  
 4. Build và chạy app trên thiết bị thật.
 
