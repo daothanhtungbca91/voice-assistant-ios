@@ -18,7 +18,7 @@ public class StringResources {
     public static let default_time_out_count:Int = 2
     public static var default_phone_number: String = "0987654321"
     
-    public static let support_email: String = "daothanhtungbk91@icloud.com"
+    public static let support_email: String = "daothanhtungbca91@gmail.com"
 
     public static let url_gpt: String = "https://us-central1-captions-and-status-1da5f.cloudfunctions.net/ask"
     public static let url_gpt_new: String = "https://ask-x7firm2vsq-uc.a.run.app"
